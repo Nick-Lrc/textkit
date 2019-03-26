@@ -1,0 +1,13 @@
+{
+    "cap_title": {
+        "articles": ["a", "an", "the"],
+        "preps": [
+            "amid", "apud", "as", "at", "atop", "bar", "but", "by", "chez",
+            "come", "down", "for", "from", "in", "into", "less", "like", "near",
+            "of", "off", "on", "onto", "out", "over", "pace", "past", "per",
+            "plus", "post", "pre", "pro", "qua", "re", "sans", "save", "than",
+            "till", "to", "unto", "up", "upon", "via", "vice", "with"
+        ],
+        "coord_conjs": ["for", "and", "nor", "but", "or", "yet", "so"]
+    }
+}
